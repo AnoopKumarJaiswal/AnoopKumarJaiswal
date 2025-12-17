@@ -40,11 +40,9 @@ Resume → https://drive.google.com/file/d/1e2SO2FaCAXTGEuOHKLMrIurnk8Av5htz/vie
 </a>
 
 <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
-       height="30"
-       width="40" />
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Naukri_Logo.png"
+         height="30" width="40" />
+  </a>
 
 
 
