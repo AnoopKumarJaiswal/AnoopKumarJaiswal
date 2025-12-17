@@ -40,8 +40,7 @@ Resume → https://drive.google.com/file/d/1e2SO2FaCAXTGEuOHKLMrIurnk8Av5htz/vie
 </a>
 
 <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Naukri_Logo.png"
-         height="30" width="40" />
+    <img src="https://img.shields.io/badge/Naukri-Profile-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
 
